@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@percy/cli": "^1.26.3",
+    "@percy/cypress": "^3.1.2",
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "cypress-plugin-xhr-toggle": "^1.0.0",
+    "cypress-real-events": "^1.10.0"
+  }
+}
